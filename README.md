@@ -1,6 +1,9 @@
 
 # Face Recognition: Facenet and MTCNN
 
+![image](https://github.com/user-attachments/assets/ce7a1646-f22a-4f3b-85dd-581f142500ba)
+
+
 The "Custom Face Recognition Model Using FaceNet" project leverages cutting-edge technologies such as FaceNet, MTCNN (Multi-task Cascaded Convolutional Neural Network), OpenCV, and scikit-learn to develop a robust and efficient facial recognition system.
 
 ## Screenshots
